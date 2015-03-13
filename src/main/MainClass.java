@@ -13,7 +13,7 @@ import MiDoS.MiDoSUnfollowBot;
 public class MainClass {
 	// /////////////////INIT VALUES//////////////////////////
 	public static String version = "2.0 ";
-	public static boolean gelistirici_modu = true;
+	public static boolean gelistirici_modu = false;
 	// /////////////////INIT VALUES//////////////////////////
 	static int menu_a;
 	static String menu_a_boolean_S;
